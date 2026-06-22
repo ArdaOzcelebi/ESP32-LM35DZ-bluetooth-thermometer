@@ -9,5 +9,6 @@ Donanım:
 - 100nF capacitor
 - Breadboard + jumper wires
 
-<img width="1190" height="845" alt="SCH_Schematic1_1-P1_2026-06-22" src="https://github.com/user-attachments/assets/02e30492-7072-4748-a1c2-5bc02236dc85" />
+<img width="814" height="667" alt="image" src="https://github.com/user-attachments/assets/ebedbd01-8a08-47a3-91b1-9c12bf7165d9" />
+
 
